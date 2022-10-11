@@ -1,0 +1,37 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ChangesView.Revert">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="z" />
+  </action>
+  <action id="Compare.Selected">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="r" />
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="up" />
+  </action>
+  <action id="Compare.Specified">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="shift r" />
+  </action>
+  <action id="FindNext" />
+  <action id="Git.Add" />
+  <action id="Git.Commit.And.Push.Executor" />
+  <action id="Git.Commit.Stage">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="c" />
+  </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="b" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="left" />
+  </action>
+  <action id="GitPushBranchAction">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="p" />
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="right" />
+  </action>
+  <action id="GitToolBox.BlameDetails" />
+  <action id="Vcs.RollbackChangedLines" />
+  <action id="Vcs.ShowHistoryForBlock">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="down" />
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="shift h" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="h" />
+  </action>
+</keymap>
