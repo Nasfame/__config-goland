@@ -1,6 +1,0 @@
-<keymap version="1" name="hiro-goland" parent="Mac OS X 10.5+">
-  <action id="Refactorings.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="ctrl t" />
-    <keyboard-shortcut first-keystroke="ctrl f2" />
-  </action>
-</keymap>
