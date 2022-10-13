@@ -1,1 +1,1 @@
-mv keymaps ../webstorm
+cp keymaps ../webstorm
