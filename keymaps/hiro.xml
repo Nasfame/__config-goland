@@ -103,6 +103,7 @@
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="shift v" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.SetDefault" />
   <action id="CopyAsPlainText">
     <keyboard-shortcut first-keystroke="shift meta c" second-keystroke="c" />
   </action>
@@ -163,9 +164,7 @@
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
   </action>
-  <action id="EditorDownWithSelection">
-    <keyboard-shortcut first-keystroke="meta page_down" />
-  </action>
+  <action id="EditorDownWithSelection" />
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl meta equals" />
   </action>
@@ -184,6 +183,7 @@
   </action>
   <action id="EditorLineEndWithSelection" />
   <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageTop" />
   <action id="EditorNextWordWithSelection" />
   <action id="EditorPasteSimple" />
   <action id="EditorPreviousWordWithSelection">
@@ -225,9 +225,13 @@
   <action id="JumpToLastWindow" />
   <action id="List-selectLastRow" />
   <action id="List-selectLastRowExtendSelection" />
+  <action id="List-selectNextRowExtendSelection" />
   <action id="LocalHistory.ShowSelectionHistory">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="shift h" />
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="down" />
+  </action>
+  <action id="MethodOverloadSwitchDown">
+    <keyboard-shortcut first-keystroke="shift exclamation_mark" />
   </action>
   <action id="MoveLineDown" />
   <action id="NewDir">
