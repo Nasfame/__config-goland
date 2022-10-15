@@ -1,6 +1,9 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
+      <action id="ZoomCurrentWindow">
+        <abbreviation name="zoom" />
+      </action>
       <action id="CollapseRegion">
         <abbreviation name="-" />
       </action>
