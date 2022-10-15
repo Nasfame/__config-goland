@@ -1,0 +1,13 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="CollapseRegion">
+        <abbreviation name="-" />
+      </action>
+      <action id="CollapseAllRegions" />
+      <action id="ExpandRegion">
+        <abbreviation name="=" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
