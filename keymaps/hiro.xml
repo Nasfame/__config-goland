@@ -289,6 +289,9 @@
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="down" />
   </action>
   <action id="Markdown.Styling.CreateLink" />
+  <action id="MergeSettings">
+    <keyboard-shortcut first-keystroke="meta back_slash" second-keystroke="m" />
+  </action>
   <action id="MethodOverloadSwitchDown">
     <keyboard-shortcut first-keystroke="shift meta 0" />
   </action>
@@ -338,6 +341,12 @@
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="ResetToMySettings">
+    <keyboard-shortcut first-keystroke="meta back_slash" second-keystroke="r" />
+  </action>
+  <action id="ResetToTheirsSettings">
+    <keyboard-shortcut first-keystroke="meta back_slash" second-keystroke="l" />
   </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="meta alt r" />

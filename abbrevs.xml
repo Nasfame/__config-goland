@@ -4,12 +4,19 @@
       <action id="ZoomCurrentWindow">
         <abbreviation name="zoom" />
       </action>
+      <action id="CloudConfigAction">
+        <abbreviation name="sync" />
+      </action>
+      <action id="CollapseAllRegions" />
       <action id="CollapseRegion">
         <abbreviation name="-" />
       </action>
-      <action id="CollapseAllRegions" />
+      <action id="MergeSettings" />
       <action id="ExpandRegion">
         <abbreviation name="=" />
+      </action>
+      <action id="SyncSettings">
+        <abbreviation name="sync" />
       </action>
     </abbreviations>
   </component>
