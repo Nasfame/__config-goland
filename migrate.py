@@ -2,7 +2,9 @@ import os
 
 import shutil
 
-sources = ["keymaps","migrate.py","git2"]
+import platform
+
+sources = ["keymaps","migrate.py","_windows"]
 destinations = ["goland","webstorm","rubymine","pycharm"]
 
 pwd = os.getcwd()
