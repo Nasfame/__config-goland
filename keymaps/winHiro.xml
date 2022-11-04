@@ -67,6 +67,7 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="EditorAddRectangularSelectionOnMouseDrag" />
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
