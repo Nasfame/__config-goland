@@ -1,4 +1,38 @@
 <keymap version="1" name="winHiro" parent="$default">
+  <action id="ActivateBookmarksToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="b" />
+  </action>
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="c" />
+  </action>
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="d" />
+  </action>
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="f" />
+  </action>
+  <action id="ActivateNotificationsToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="n" />
+  </action>
+  <action id="ActivateProblemsViewToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="shift p" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="p" />
+  </action>
+  <action id="ActivatePullRequestsToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="left" />
+  </action>
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="r" />
+  </action>
+  <action id="ActivateServicesToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="s" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="t" />
+  </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="g" />
   </action>
