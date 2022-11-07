@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="20.219.153.186" id="43f26e16-5c39-4fc2-a02d-9b243291fc35" keyPath="C:\Users\Hiro\.ssh\github.com-hiroBzinga" port="22" nameFormat="DESCRIPTIVE" username="nashaath.mohamed" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
