@@ -66,6 +66,9 @@
   <action id="Compare.Selected">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="r" />
   </action>
+  <action id="CompareClipboardWithSelection">
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="c" />
+  </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
@@ -202,5 +205,8 @@
   <action id="WebOpenInAction" />
   <action id="context.save" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
+  <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="s" />
+  </action>
   <action id="runShellFileAction" />
 </keymap>
