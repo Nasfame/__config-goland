@@ -131,6 +131,9 @@
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="f" />
   </action>
+  <action id="Git.Log.Branches.Change.Branch.Filter">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="Git.Log.Branches.Navigate.Log.To.Selected.Branch" />
   <action id="Git.Merge">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="m" />
@@ -159,6 +162,12 @@
   <action id="Markdown.Styling.CreateLink" />
   <action id="NewElementMenu">
     <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="alt space" />
+    <mouse-shortcut keystroke="button1 doubleClick" />
   </action>
   <action id="Refactorings.QuickListPopupAction" />
   <action id="RenameElement">
