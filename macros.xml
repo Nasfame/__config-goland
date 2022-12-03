@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="copy only">
+      <action id="EditorCopy" />
+      <action id="EditorDown" />
+      <action id="EditorPaste" />
+    </macro>
+  </component>
+</application>

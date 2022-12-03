@@ -82,6 +82,9 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="EditMacros">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="e" />
+  </action>
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="ctrl o" second-keystroke="r" />
   </action>
@@ -97,6 +100,7 @@
   <action id="EditorIncreaseFontSizeGlobal">
     <keyboard-shortcut first-keystroke="shift alt equals" />
   </action>
+  <action id="EditorScrollToCenter" />
   <action id="EditorSelectWord" />
   <action id="EditorToggleCase" />
   <action id="EditorUnSelectWord" />
@@ -183,6 +187,15 @@
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="OverrideMethods" />
+  <action id="PlaySavedMacrosAction">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="h" />
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="p" />
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="s" />
+  </action>
+  <action id="PlaybackLastMacro">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="left" />
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="l" />
+  </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="alt space" />
     <mouse-shortcut keystroke="alt button1 doubleClick" />
@@ -210,6 +223,9 @@
   </action>
   <action id="SmartSelect" />
   <action id="SmartUnSelect" />
+  <action id="StartStopMacroRecording">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="space" />
+  </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="alt period" />
   </action>
@@ -227,6 +243,7 @@
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="right" />
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="p" />
   </action>
+  <action id="Vcs.ShowMessageHistory" />
   <action id="Vcs.UpdateProject" />
   <action id="VcsHistory.ShowAllAffected" />
   <action id="WebOpenInAction" />
