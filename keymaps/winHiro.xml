@@ -79,6 +79,12 @@
   <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="alt c" second-keystroke="c" />
   </action>
+  <action id="Console.TableResult.CopyAggregatorResult" />
+  <action id="CopyAbsolutePath" />
+  <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
+  </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
@@ -87,6 +93,9 @@
   </action>
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="ctrl o" second-keystroke="r" />
+  </action>
+  <action id="EditorCutLineEnd">
+    <keyboard-shortcut first-keystroke="shift ctrl c" second-keystroke="e" />
   </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="alt minus" />
@@ -201,6 +210,7 @@
     <mouse-shortcut keystroke="alt button1 doubleClick" />
   </action>
   <action id="Refactorings.QuickListPopupAction" />
+  <action id="RemoteHostView.CopyPaths" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="alt f2" />
@@ -247,8 +257,10 @@
   <action id="Vcs.UpdateProject" />
   <action id="VcsHistory.ShowAllAffected" />
   <action id="WebOpenInAction" />
+  <action id="WelcomeScreen.CopyProjectPath" />
   <action id="context.save" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
     <keyboard-shortcut first-keystroke="alt f" second-keystroke="s" />
   </action>
