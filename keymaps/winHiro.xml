@@ -32,7 +32,9 @@
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="r" />
   </action>
-  <action id="ActivateServicesToolWindow" />
+  <action id="ActivateServicesToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="shift s" />
+  </action>
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="s" />
   </action>
