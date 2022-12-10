@@ -52,7 +52,7 @@
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="z" />
   </action>
   <action id="ChooseRunConfiguration">
-    <keyboard-shortcut first-keystroke="shift alt r" />
+    <keyboard-shortcut first-keystroke="shift alt r" second-keystroke="r" />
   </action>
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -146,6 +146,9 @@
   <action id="ExternalSystem.ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
+  <action id="ExternalSystem.RunTask">
+    <keyboard-shortcut first-keystroke="shift alt r" second-keystroke="t" />
+  </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
@@ -237,6 +240,13 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="RunAnything">
+    <keyboard-shortcut first-keystroke="shift alt r" second-keystroke="a" />
+  </action>
+  <action id="RunDashboard.Run">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="shift alt r" second-keystroke="shift r" />
+  </action>
   <action id="ServiceView.ShowServices" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowSettings">
@@ -277,6 +287,9 @@
   <action id="WebOpenInAction" />
   <action id="WelcomeScreen.CopyProjectPath" />
   <action id="context.save" />
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="shift alt r" second-keystroke="c" />
+  </action>
   <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
