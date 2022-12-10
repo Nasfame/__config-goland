@@ -82,6 +82,9 @@
     <keyboard-shortcut first-keystroke="alt c" second-keystroke="c" />
   </action>
   <action id="Console.TableResult.CopyAggregatorResult" />
+  <action id="Console.TableResult.DeleteRows">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="CopyAbsolutePath" />
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction">
@@ -105,6 +108,16 @@
   <action id="EditorDecreaseFontSizeGlobal">
     <keyboard-shortcut first-keystroke="shift alt minus" />
   </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl delete" second-keystroke="l" />
+  </action>
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="ctrl delete" second-keystroke="f12" />
+  </action>
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="ctrl delete" second-keystroke="f11" />
+  </action>
+  <action id="EditorDeleteToWordEnd" />
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="alt equals" />
   </action>
@@ -242,6 +255,9 @@
     <keyboard-shortcut first-keystroke="alt period" />
   </action>
   <action id="StopBackgroundProcesses" />
+  <action id="StringManipulation.SwitchStyleAction">
+    <keyboard-shortcut first-keystroke="alt u" second-keystroke="space" />
+  </action>
   <action id="SyncSettings">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
@@ -265,6 +281,9 @@
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
     <keyboard-shortcut first-keystroke="alt f" second-keystroke="s" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.ToUpperCaseAction">
+    <keyboard-shortcut first-keystroke="alt u" second-keystroke="u" />
   </action>
   <action id="runShellFileAction" />
 </keymap>
