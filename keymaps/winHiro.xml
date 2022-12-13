@@ -48,6 +48,9 @@
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="alt d" />
     <keyboard-shortcut first-keystroke="shift alt 4" />
   </action>
+  <action id="ChangeSplitOrientation">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="space" />
+  </action>
   <action id="ChangesView.Revert">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="z" />
   </action>
@@ -204,6 +207,20 @@
   <action id="GotoSuperMethod" />
   <action id="GotoTest" />
   <action id="Markdown.Styling.CreateLink" />
+  <action id="MaximizeEditorInSplit">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="m" />
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="n" />
+  </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="shift d" />
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="shift down" />
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="shift up" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="shift r" />
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="shift right" />
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="shift left" />
+  </action>
   <action id="NewElementMenu">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
@@ -258,6 +275,17 @@
   </action>
   <action id="SmartSelect" />
   <action id="SmartUnSelect" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="d" />
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="down" />
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="up" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="r" />
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="s" />
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="right" />
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="left" />
+  </action>
   <action id="StartStopMacroRecording">
     <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="space" />
   </action>
@@ -265,6 +293,15 @@
     <keyboard-shortcut first-keystroke="alt period" />
   </action>
   <action id="StopBackgroundProcesses" />
+  <action id="StretchSplitToBottom">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="b" />
+  </action>
+  <action id="StretchSplitToLeft">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="l" />
+  </action>
+  <action id="StretchSplitToTop">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="t" />
+  </action>
   <action id="StringManipulation.SwitchStyleAction">
     <keyboard-shortcut first-keystroke="alt u" second-keystroke="space" />
   </action>
@@ -274,6 +311,14 @@
   <action id="TableResult.GrowSelection" />
   <action id="TableResult.ShrinkSelection" />
   <action id="Terminal.ClearBuffer" />
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="u" />
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="z" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="alt u" second-keystroke="shift u" />
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="shift z" />
+  </action>
   <action id="UsageFiltering.WriteAccess" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.ShowAllAffected" />
