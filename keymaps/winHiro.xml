@@ -54,6 +54,9 @@
   <action id="ChangesView.Revert">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="z" />
   </action>
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="c" />
+  </action>
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt r" second-keystroke="r" />
   </action>
@@ -169,9 +172,7 @@
   </action>
   <action id="Git.Branches" />
   <action id="Git.Commit.And.Push.Executor" />
-  <action id="Git.Commit.Stage">
-    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="c" />
-  </action>
+  <action id="Git.Commit.Stage" />
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="b" />
   </action>
