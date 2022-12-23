@@ -143,6 +143,9 @@
   <action id="EditorScrollToCenter" />
   <action id="EditorSelectWord" />
   <action id="EditorToggleCase" />
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="w" />
+  </action>
   <action id="EditorUnSelectWord" />
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl equals" />
