@@ -1,15 +1,9 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="20.219.153.186" id="43f26e16-5c39-4fc2-a02d-9b243291fc35" keyPath="C:\Users\Hiro\.ssh\github.com-hiroBzinga" port="22" customName="bz-dev" nameFormat="CUSTOM" username="nashaath.mohamed" useOpenSSHConfig="true">
-        <option name="customName" value="bz-dev" />
-      </sshConfig>
-      <sshConfig host="20.204.165.98" id="acd2058f-f2fc-4cd5-ae69-bcc6e394fa55" keyPath="C:\Users\Hiro\.ssh\github.com-hiroBzinga" port="22" customName="bz-prod" nameFormat="CUSTOM" username="nashaath.mohamed" useOpenSSHConfig="true">
-        <option name="customName" value="bz-prod" />
-      </sshConfig>
-      <sshConfig host="20.207.202.88" id="ff0bd8c3-3ed0-44f0-a0f5-2e4bcce48819" keyPath="C:\Users\Hiro\.ssh\github.com-hiroBzinga" port="22" customName="bz-qa" nameFormat="CUSTOM" username="nashaath.mohamed" useOpenSSHConfig="true">
-        <option name="customName" value="bz-qa" />
-      </sshConfig>
+      <sshConfig host="20.219.153.186" id="43f26e16-5c39-4fc2-a02d-9b243291fc35" keyPath="C:\Users\Hiro\.ssh\github.com-hiroBzinga" port="22" nameFormat="DESCRIPTIVE" username="nashaath.mohamed" useOpenSSHConfig="true" />
+      <sshConfig host="20.204.165.98" id="acd2058f-f2fc-4cd5-ae69-bcc6e394fa55" keyPath="C:\Users\Hiro\.ssh\github.com-hiroBzinga" port="22" nameFormat="DESCRIPTIVE" username="nashaath.mohamed" useOpenSSHConfig="true" />
+      <sshConfig host="20.207.202.88" id="ff0bd8c3-3ed0-44f0-a0f5-2e4bcce48819" keyPath="C:\Users\Hiro\.ssh\github.com-hiroBzinga" port="22" nameFormat="DESCRIPTIVE" username="nashaath.mohamed" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
