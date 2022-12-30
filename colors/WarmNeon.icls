@@ -4,7 +4,7 @@
     <property name="created">2022-10-05T15:58:21</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.2.2.0.0</property>
-    <property name="modified">2022-12-31T03:31:40</property>
+    <property name="modified">2022-12-14T06:45:14</property>
     <property name="originalScheme">_@user_WarmNeon</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -23,7 +23,7 @@
     <option name="ANNOTATIONS_COLOR" value="8178af" />
     <option name="CARET_COLOR" value="ff00" />
     <option name="CARET_ROW_COLOR" value="282828" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="404040" />
     <option name="DELETED_LINES_COLOR" value="747474" />
     <option name="FILESTATUS_MODIFIED" value="215ee6" />
     <option name="GUTTER_BACKGROUND" value="424242" />
@@ -1199,9 +1199,6 @@
         <option name="FOREGROUND" value="e2b8b8" />
         <option name="FONT_TYPE" value="3" />
       </value>
-    </option>
-    <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
-      <value />
     </option>
     <option name="TEXT">
       <value>
