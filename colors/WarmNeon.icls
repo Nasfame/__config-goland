@@ -4,7 +4,7 @@
     <property name="created">2022-10-05T15:58:21</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.2.2.0.0</property>
-    <property name="modified">2022-12-14T06:45:14</property>
+    <property name="modified">2023-01-01T16:43:28</property>
     <property name="originalScheme">_@user_WarmNeon</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -104,6 +104,12 @@
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
         <option name="FOREGROUND" value="20bad5" />
+      </value>
+    </option>
+    <option name="CONSOLE_DARKGRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="21252b" />
+        <option name="BACKGROUND" value="424242" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
