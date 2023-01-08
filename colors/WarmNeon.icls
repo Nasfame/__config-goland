@@ -1,11 +1,23 @@
 <scheme name="WarmNeon" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2022-10-05T15:58:21</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.2.2.0.0</property>
-    <property name="modified">2022-10-11T05:42:21</property>
+    <property name="modified">2023-01-01T16:52:23</property>
     <property name="originalScheme">_@user_WarmNeon</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="10" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="10" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="395439" />
     <option name="ANNOTATIONS_COLOR" value="8178af" />
@@ -71,7 +83,7 @@
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="211a1a" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
@@ -94,6 +106,12 @@
         <option name="FOREGROUND" value="20bad5" />
       </value>
     </option>
+    <option name="CONSOLE_DARKGRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="21252b" />
+        <option name="BACKGROUND" value="aa9a9a" />
+      </value>
+    </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e54242" />
@@ -102,6 +120,8 @@
     <option name="CONSOLE_GRAY_OUTPUT">
       <value>
         <option name="FOREGROUND" value="a7a7a7" />
+        <option name="EFFECT_COLOR" value="3c3f41" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
@@ -264,8 +284,11 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="b44141" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="86de7c" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="3c3f41" />
+        <option name="ERROR_STRIPE_COLOR" value="3c3f41" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -280,12 +303,20 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="b3524c" />
+        <option name="FOREGROUND" value="9db894" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG">
+      <value>
+        <option name="FOREGROUND" value="9db894" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="629755" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="964444" />
+        <option name="FOREGROUND" value="cdb5b5" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY">
@@ -320,8 +351,10 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="e54242" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="c27b3f" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="c34ecb" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -819,6 +852,13 @@
     <option name="LOGCAT_WARNING_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ffff00" />
+      </value>
+    </option>
+    <option name="LOG_EXPIRED_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="eaa8a8" />
+        <option name="EFFECT_COLOR" value="3c3f41" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="List/map to object conversion">
