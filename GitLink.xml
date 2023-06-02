@@ -1,5 +1,16 @@
 <application>
   <component name="uk.co.ben_gibson.git.link.SettingsState">
+    <option name="customHostDomains">
+      <map>
+        <entry key="a28d7024-f390-40d1-8554-db65a9120a38">
+          <value>
+            <set>
+              <option value="https://go-review.googlesource.com/c/go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="lastVersion" value="4.3.2" />
   </component>
 </application>
