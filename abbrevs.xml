@@ -1,6 +1,13 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
+      <action id="com.darkyen.actions.ResetGitTimeAction">
+        <abbreviation name="gittime" />
+        <abbreviation name="timegit" />
+      </action>
+      <action id="com.darkyen.actions.ResetTimeAction">
+        <abbreviation name="time" />
+      </action>
       <action id="SyncSettings">
         <abbreviation name="sync" />
       </action>

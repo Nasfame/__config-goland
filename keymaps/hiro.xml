@@ -495,6 +495,9 @@
     <keyboard-shortcut first-keystroke="f7" />
   </action>
   <action id="ZoomCurrentWindow" />
+  <action id="com.darkyen.actions.ResetTimeAction">
+    <keyboard-shortcut first-keystroke="shift ctrl t" second-keystroke="t" />
+  </action>
   <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
   <action id="tasks.close" />
