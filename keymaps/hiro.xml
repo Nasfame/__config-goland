@@ -309,9 +309,6 @@
   <action id="Git.Checkout.Branch">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="shift s" />
   </action>
-  <action id="Git.CheckoutGroup">
-    <keyboard-shortcut first-keystroke="meta g" second-keystroke="shift c" />
-  </action>
   <action id="Git.CheckoutRevision">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="shift r" />
   </action>
@@ -330,6 +327,9 @@
   </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="left" />
+  </action>
+  <action id="GitCheckoutAction">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="shift c" />
   </action>
   <action id="GitCheckoutAsNewBranch">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="n" />
