@@ -306,6 +306,15 @@
     <keyboard-shortcut first-keystroke="shift meta u" second-keystroke="f" />
   </action>
   <action id="Git.Add" />
+  <action id="Git.Checkout.Branch">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="shift s" />
+  </action>
+  <action id="Git.CheckoutGroup">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="shift c" />
+  </action>
+  <action id="Git.CheckoutRevision">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="shift r" />
+  </action>
   <action id="Git.Commit.And.Push.Executor" />
   <action id="Git.Commit.Stage">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="c" />
@@ -321,6 +330,12 @@
   </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="left" />
+  </action>
+  <action id="GitCheckoutAsNewBranch">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="n" />
+  </action>
+  <action id="GitCheckoutFromInputAction">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="shift t" />
   </action>
   <action id="GitToolBox.BlameDetails" />
   <action id="GithubCopyPathProvider">
