@@ -524,5 +524,57 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/backports.ssl_match_hostname" />
       </SOURCES>
     </library>
+    <library name="jquery" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery_2.0.3_jquery.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery_2.0.3_jquery.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jquery.flot" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_flot_0.8.2_jquery.flot.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_flot_0.8.2_jquery.flot.min.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jquery.flot.selection" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_flot_0.8.2_jquery.flot.selection.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_flot_0.8.2_jquery.flot.selection.min.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jquery.flot.stack" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_flot_0.8.2_jquery.flot.stack.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_flot_0.8.2_jquery.flot.stack.min.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
