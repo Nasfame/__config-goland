@@ -389,6 +389,12 @@
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="meta o" second-keystroke="o" />
   </action>
+  <action id="OpenInBrowserEditorContextBarGroupAction">
+    <keyboard-shortcut first-keystroke="meta o" second-keystroke="shift b" />
+  </action>
+  <action id="OpenInBrowserGroup">
+    <keyboard-shortcut first-keystroke="meta o" second-keystroke="b" />
+  </action>
   <action id="OpenInRightSplit">
     <keyboard-shortcut first-keystroke="shift enter" />
     <mouse-shortcut keystroke="alt button1 doubleClick" />
