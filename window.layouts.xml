@@ -4,6 +4,12 @@
     "Custom": {
       "v1": [
         {
+          "id": "Commit",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.17946428
+        },
+        {
           "id": "Bookmarks",
           "order": 0,
           "isSplit": true
@@ -17,9 +23,7 @@
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.20863095
+          "weight": 0.15029761
         },
         {
           "id": "Structure",
@@ -34,7 +38,9 @@
         {
           "id": "Find",
           "order": 1,
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.3300209
         },
         {
           "id": "Debug",
@@ -72,6 +78,8 @@
           "id": "Terminal",
           "order": 4,
           "anchor": "BOTTOM",
+          "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.3300209
         },
         {
@@ -109,7 +117,7 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.20863095,
+        "left": 0.17946428,
         "bottom": 0.3300209,
         "right": 0.33005953
       }
