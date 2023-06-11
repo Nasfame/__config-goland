@@ -1,0 +1,5 @@
+<application>
+  <component name="DarkyenusTimeTrackerDefaults">
+    <option name="autoCountIdleSeconds" value="90" />
+  </component>
+</application>
