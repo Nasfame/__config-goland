@@ -1,0 +1,5 @@
+<application>
+  <component name="Go">
+    <option name="askConfirmationForShareInPlayground" value="false" />
+  </component>
+</application>
