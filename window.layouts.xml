@@ -1,5 +1,6 @@
 <application>
   <component name="ToolWindowLayout"><![CDATA[{
+  "activeLayoutName": "horizontal",
   "layouts": {
     "Custom": {
       "v1": [
@@ -23,7 +24,9 @@
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
-          "weight": 0.15029761
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.12529762
         },
         {
           "id": "Structure",
@@ -75,14 +78,6 @@
           "anchor": "BOTTOM"
         },
         {
-          "id": "Terminal",
-          "order": 4,
-          "anchor": "BOTTOM",
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.3300209
-        },
-        {
           "id": "Services",
           "order": 4,
           "anchor": "BOTTOM"
@@ -113,13 +108,142 @@
           "anchor": "RIGHT",
           "isVisible": true,
           "weight": 0.33005953
+        },
+        {
+          "id": "Terminal",
+          "order": 1,
+          "anchor": "RIGHT",
+          "isVisible": true,
+          "weight": 0.33005953
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.17946428,
+        "left": 0.12529762,
         "bottom": 0.3300209,
         "right": 0.33005953
+      }
+    },
+    "horizontal": {
+      "v1": [
+        {
+          "id": "Commit",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.17946428
+        },
+        {
+          "id": "Bookmarks",
+          "order": 0,
+          "isSplit": true
+        },
+        {
+          "id": "aws.toolkit.explorer",
+          "order": 0,
+          "isSplit": true
+        },
+        {
+          "id": "Project",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.12529762
+        },
+        {
+          "id": "Structure",
+          "order": 0,
+          "isSplit": true
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Find",
+          "order": 1,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.3300209
+        },
+        {
+          "id": "Debug",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "weight": 0.4
+        },
+        {
+          "id": "Python Packages",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "TODO",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "aws.codewhisperer.codereference",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Inspection",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.4
+        },
+        {
+          "id": "Problems View",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Services",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "GitHub Actions",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Terminal",
+          "order": 5,
+          "anchor": "BOTTOM",
+          "isVisible": true,
+          "weight": 0.22646444,
+          "isSplit": true
+        },
+        {
+          "id": "Endpoints",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Notifications",
+          "anchor": "RIGHT",
+          "isSplit": true
+        },
+        {
+          "id": "make",
+          "anchor": "RIGHT",
+          "isSplit": true
+        },
+        {
+          "id": "Run",
+          "order": 0,
+          "anchor": "RIGHT",
+          "weight": 0.33005953
+        }
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.12529762,
+        "bottom": 0.22646444,
+        "right": 0.12529762
       }
     }
   }
