@@ -1,6 +1,9 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
+      <action id="FillParagraph">
+        <abbreviation name="fill" />
+      </action>
       <action id="com.darkyen.actions.ResetGitTimeAction">
         <abbreviation name="gittime" />
         <abbreviation name="timegit" />
