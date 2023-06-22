@@ -14,6 +14,9 @@
       <action id="SyncSettings">
         <abbreviation name="sync" />
       </action>
+      <action id="GoShareInPlaygroundAction">
+        <abbreviation name="play" />
+      </action>
     </abbreviations>
   </component>
 </application>
