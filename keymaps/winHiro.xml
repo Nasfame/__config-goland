@@ -150,6 +150,9 @@
     <keyboard-shortcut first-keystroke="alt f" second-keystroke="w" />
   </action>
   <action id="EditorUnSelectWord" />
+  <action id="Exit">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
