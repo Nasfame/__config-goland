@@ -1,0 +1,161 @@
+<application>
+  <component name="ToolWindowLayout"><![CDATA[{
+  "layouts": {
+    "Custom": {
+      "v1": [
+        {
+          "id": "Bookmarks",
+          "order": 0,
+          "isSplit": true
+        },
+        {
+          "id": "Welcome to GitHub Copilot",
+          "order": 0
+        },
+        {
+          "id": "Structure",
+          "order": 0,
+          "isSplit": true
+        },
+        {
+          "id": "aws.toolkit.explorer",
+          "order": 0,
+          "isSplit": true
+        },
+        {
+          "id": "Project",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.20214844
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Find",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Debug",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "weight": 0.4
+        },
+        {
+          "id": "GitHub Actions",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Python Packages",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "TODO",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Inspection",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.4
+        },
+        {
+          "id": "Problems View",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Terminal",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.3302696
+        },
+        {
+          "id": "Services",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "PlantUML",
+          "order": 0,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "amazon.q.window",
+          "order": 0,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Endpoints",
+          "order": 0,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Database",
+          "order": 0,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "make",
+          "order": 0,
+          "anchor": "RIGHT",
+          "isSplit": true
+        },
+        {
+          "id": "github.copilotToolWindow",
+          "order": 0,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "aiXcoder",
+          "order": 0,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "GitHub Copilot Chat",
+          "order": 0,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "CodeAssist",
+          "order": 0,
+          "anchor": "RIGHT",
+          "isSplit": true
+        },
+        {
+          "id": "AIAssistant",
+          "order": 0,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Notifications",
+          "order": 0,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Run",
+          "order": 1,
+          "anchor": "RIGHT",
+          "isVisible": true,
+          "weight": 0.33040363
+        }
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.20214844,
+        "bottom": 0.3302696,
+        "right": 0.33040363
+      }
+    }
+  }
+}]]></component>
+</application>
