@@ -51,6 +51,11 @@
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="alt d" />
     <keyboard-shortcut first-keystroke="shift alt 4" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
   <action id="ChangeSplitOrientation">
     <keyboard-shortcut first-keystroke="alt e" second-keystroke="space" />
   </action>
@@ -108,6 +113,8 @@
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="ctrl o" second-keystroke="r" />
   </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockStart" />
   <action id="EditorCutLineEnd">
     <keyboard-shortcut first-keystroke="shift ctrl c" second-keystroke="e" />
   </action>
@@ -216,6 +223,9 @@
   </action>
   <action id="GitToolBox.BlameDetails" />
   <action id="GoGenerateFileAction" />
+  <action id="GoToMenu">
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift alt a" />
   </action>
