@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping ext="plantuml" type="PlantUML file" />
-      <mapping pattern="hardhat.config.ts" type="TypeScript" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="env" approved="true" type=".env file" />
