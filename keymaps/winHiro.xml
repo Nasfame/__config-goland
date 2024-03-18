@@ -113,6 +113,9 @@
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="ctrl o" second-keystroke="r" />
   </action>
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
   <action id="EditorCutLineEnd">
@@ -131,10 +134,12 @@
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="ctrl delete" second-keystroke="f12" />
     <keyboard-shortcut first-keystroke="shift ctrl back_space" second-keystroke="right" />
+    <keyboard-shortcut first-keystroke="shift back_space" second-keystroke="right" />
   </action>
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="ctrl delete" second-keystroke="f11" />
     <keyboard-shortcut first-keystroke="shift ctrl back_space" second-keystroke="left" />
+    <keyboard-shortcut first-keystroke="shift back_space" second-keystroke="left" />
   </action>
   <action id="EditorDeleteToWordEnd">
     <keyboard-shortcut first-keystroke="shift ctrl back_space" second-keystroke="w" />
